@@ -1,0 +1,5 @@
+# text.lower()
+# text.upper()
+# text.strip()
+# text.replace()
+# text.split()
